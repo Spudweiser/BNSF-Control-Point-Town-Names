@@ -1,4 +1,5 @@
-description: A new TrueGRF project
+description: A compiled list of 2315 named Control Points on the BNSF Railway network. Duplicate names and milepost markers were excluded. Last updated September 2025.
 license: CC0-1.0
+name: BNSF Control Point Town Names
 type: townname
 version: 6
